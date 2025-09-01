@@ -1,4 +1,4 @@
-// Set2 Q3(iv) Shell Sort
+
 
 #include <stdio.h>
 #define MAX 100
