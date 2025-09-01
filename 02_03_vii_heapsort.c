@@ -1,7 +1,3 @@
-/*
-Set2 Q3(vii) Heap Sort
-*/
-
 
 #include <stdio.h>
 #define MAX 100
