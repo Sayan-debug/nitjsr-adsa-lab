@@ -1,7 +1,3 @@
-/*
-Set2 Q3(viii) Radix Sort
-*/
-
 
 #include <stdio.h>
 
