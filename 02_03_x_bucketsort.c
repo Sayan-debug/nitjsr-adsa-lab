@@ -1,7 +1,3 @@
-/*
-Set2 Q3(x) Bucket Sort
-*/
-
 
 #include <stdio.h>
 #include <stdlib.h>
