@@ -1,6 +1,3 @@
-/*
-Set2 Q3(xu) Radix Exchange Sort
-*/
 
 #include <stdio.h>
 
