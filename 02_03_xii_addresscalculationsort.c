@@ -1,6 +1,4 @@
-/*
-Set2 Q3(xii) Addres Calculation Sort
-*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
